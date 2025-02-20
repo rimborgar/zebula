@@ -23,7 +23,7 @@
 	#include "../../mods/content/baychems/_baychems.dme"
 	#include "../../mods/content/corporate/_corporate.dme"
 	#include "../../mods/content/extrafoods/_extrafoods.dme"
-	#include "../../mods/content/extradrinks/_extradrinks.dme"
+	//#include "../../mods/content/extradrinks/_extradrinks.dme"
 	#include "../../mods/content/genemodding/_genemodding.dme"
 	#include "../../mods/content/government/_government.dme"
 	#include "../../mods/content/modern_earth/_modern_earth.dme"
