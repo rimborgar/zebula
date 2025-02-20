@@ -29,6 +29,9 @@
 	#include "../../mods/content/matchmaking/_matchmaking.dme"
 	#include "../../mods/content/pheromones/_pheromones.dme"
 
+	#include "../../mods/content/hearthfoods/_hearthfoods.dme"
+	#include "../../mods/content/hearthdrinks/_hearthdrinks.dme"
+
 	#include "../../mods/mobs/dionaea/_dionaea.dme"
 	#include "../../mods/mobs/borers/_borers.dme"
 
@@ -42,6 +45,9 @@
 	#include "../../mods/species/neoavians/_neoavians.dme"
 	#include "../../mods/species/bayliens/_bayliens.dme"
 	#include "../../mods/species/vox/_vox.dme"
+
+	#include "..\..\mods\utility\ooc_notes\_ooc_notes.dme"
+	#include "..\..\mods\utility\centcomdb\_centcomdb.dme"
 
 	#include "../away/bearcat/bearcat.dm"
 	#include "../away/casino/casino.dm"
