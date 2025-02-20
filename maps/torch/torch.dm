@@ -26,8 +26,6 @@
 	#include "../../mods/content/pheromones/_pheromones.dme"
 
 	#include "..\..\mods\content\genemodding\_genemodding.dme"
-	#include "..\..\mods\content\hearthfoods\_hearthfoods.dme"
-	#include "..\..\mods\content\hearthdrinks\_hearthdrinks.dme"
 
 	#include "../../mods/mobs/dionaea/_dionaea.dme"
 	#include "../../mods/mobs/borers/_borers.dme"
