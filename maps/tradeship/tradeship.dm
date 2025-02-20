@@ -28,6 +28,10 @@
 	#include "../../mods/content/xenobiology/_xenobiology.dme"
 	#include "../../mods/content/matchmaking/_matchmaking.dme"
 	#include "../../mods/content/pheromones/_pheromones.dme"
+	#include "../../mods/content/baychems/_baychems.dme"
+	#include "../../mods/content/extradrinks/_extradrinks.dme"
+	#include "../../mods/content/extrafoods/_extrafoods.dme"
+	#include "../../mods/content/genemodding/_genemodding.dme"
 
 	#include "../../mods/mobs/dionaea/_dionaea.dme"
 	#include "../../mods/mobs/borers/_borers.dme"
@@ -42,6 +46,9 @@
 	#include "../../mods/species/neoavians/_neoavians.dme"
 	#include "../../mods/species/bayliens/_bayliens.dme"
 	#include "../../mods/species/vox/_vox.dme"
+
+	#include "../../mods/utility/centcomdb/_centcomdb.dme"
+	#include "../../mods/utility/ooc_notes/_ooc_notes.dme"
 
 	#include "../away/bearcat/bearcat.dm"
 	#include "../away/casino/casino.dm"
